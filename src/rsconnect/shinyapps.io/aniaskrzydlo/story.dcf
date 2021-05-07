@@ -1,0 +1,13 @@
+name: story
+title: story
+username:
+account: aniaskrzydlo
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4094195
+bundleId: 4570589
+url: https://aniaskrzydlo.shinyapps.io/story/
+when: 1620401607.24818
+lastSyncTime: 1620401607.24819
+asMultiple: FALSE
+asStatic: FALSE
