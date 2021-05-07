@@ -23,7 +23,7 @@ email_open <- makePage(
     tokens = list(childrenGap = 10), horizontal = TRUE,
     emailMiniature,
     div(
-      class = "card ms-depth-8 ms-sm8 ms-xl8",
+      class = "card ms-depth-8 ms-sm6 ms-xl6",
       style = "max-height: 640px",
       Stack(
         tokens = list(childrenGap = 5),
