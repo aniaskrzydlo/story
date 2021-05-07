@@ -1,6 +1,6 @@
 work_call <- div(
   class = "card ms-depth-8 ms-sm3 ms-xl3",
-  style = "max-height: 150px; width: 300px;",
+  style = "max-height: 200px; width: 300px;",
   Stack(
     tokens = list(childrenGap = 15), horizontal = TRUE,
     icon("video"),
@@ -11,9 +11,12 @@ work_call <- div(
       Facepile(personas = list(
         list(personaName = "John Doe"),
         list(personaName = "Cecil Shark")
-      ))
-    ),
-    # div(style = "height:300px"),
+      )),
+      div(style = "height:10px")
+    )
+  ),
+  Stack(horizontal = TRUE,
+    div(style = "width:220px"),
     DefaultButton("joinBtn", text = "Join", href = "#!/monday")
   )
 )
