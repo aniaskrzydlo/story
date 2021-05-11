@@ -5,9 +5,9 @@ account: aniaskrzydlo
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 4094195
-bundleId: 4570589
+bundleId: 4579401
 url: https://aniaskrzydlo.shinyapps.io/story/
-when: 1620401607.24818
-lastSyncTime: 1620401607.24819
+when: 1620626890.78312
+lastSyncTime: 1620626890.78313
 asMultiple: FALSE
 asStatic: FALSE
